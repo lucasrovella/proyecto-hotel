@@ -16,7 +16,6 @@ let ubicacionPrincipal = window.pageYOffset;
     }
 
 
-
 const btnLeft = document.querySelector(".btn-left"),
       btnRight = document.querySelector(".btn-right"),
       slider = document.querySelector("#slider"),
@@ -66,10 +65,10 @@ function moveToLeft() {
     
 }   
 
+
 const nav = document.querySelector("#nav");
 const abrir = document.querySelector("#abrir");
 const cerrar = document.querySelector("#cerrar");
-
 
 abrir.addEventListener("click", () => {
     nav.classList.add("visible");
