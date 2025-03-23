@@ -376,7 +376,7 @@ main{
 }
 
 #restoran{
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url(../imgs/restoran-hotel.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url(./imgs/restoran-hotel.jpg);
     
     background-size: cover;
     background-position: center center;
@@ -385,7 +385,7 @@ main{
 }
 
 #piscina{
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url(../imgs/alberca.jpeg);
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url(./imgs/alberca.jpeg);
     
     background-size: cover;
     background-position: center center;
@@ -394,7 +394,7 @@ main{
 }
 
 #spa{
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url(../imgs/spa.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url(./imgs/spa.jpg);
     
     background-size: cover;
     background-position: center center;
